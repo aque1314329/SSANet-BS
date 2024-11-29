@@ -3,13 +3,6 @@
 SSANet-BS: Spectral–Spatial Cross-Dimensional Attention Network for Hyperspectral Band Selection
 > https://www.mdpi.com/2072-4292/16/15/2848
 
-[]()
-
-![SSANet-BS](images/ssanet_bs.png "SSANet-BS")
-
-
-
-
 ## Abstract
 
 Band selection (BS) aims to reduce redundancy in hyperspectral imagery (HSI). Existing
